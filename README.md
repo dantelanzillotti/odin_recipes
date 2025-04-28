@@ -1,1 +1,2 @@
 # odin_recipes
+In this project I have created a web page with multiple pages and a home page. This project incorporates JPG images, unorganized and organized lists, and hyperlinks. These recipes listed are some of my favorite.
